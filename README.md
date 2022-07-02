@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Etur</h1>
 <h3 align="center">I am a web and software backend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Redemagic](https://redemagic.com.br/) 
+- 🔭 I’m currently working on [Incode Sistemas](https://incode.com.br/) 
 
 - 🌱 I’m currently learning **Nodejs, Python**
 
