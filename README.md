@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://incode.com.br](https://incode.com.br)
 
-- 💬 Ask me about **PHP, Laravel, Vue, Mysql**
+- 💬 Ask me about **PHP, Codeigniter, Laravel, Vue, Mysql**
 
 - 📫 How to reach me **samueletur@gmail.com**
 
